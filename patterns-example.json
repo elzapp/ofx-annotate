@@ -1,0 +1,215 @@
+[
+    {
+        "name": "Google",
+        "patterns":["GOOGLE \\*Google"]
+    },
+    {
+      "name": "Meny",
+      "patterns": [
+        "^MENY .*$"
+      ]
+    },
+    {
+      "name": "Mc Donalds",
+      "patterns": [
+        "^MC DONALDS .*$",
+        "^MCD .*$"
+      ]
+    },
+    {
+      "name": "IKEA",
+      "patterns": [
+        "^IKEA .*$"
+      ]
+    },
+    {
+      "name": "Rema",
+      "patterns": [
+        "^REMA .*$"
+      ]
+    },
+    {
+      "name": "BUNNPRIS",
+      "patterns": [
+        "^BUNNPRIS .*$"
+      ]
+    },
+    {
+      "name": "Burgerking",
+      "patterns": [
+        "^BURGER KIN .*$",
+        "^BK "
+      ]
+    },
+    {
+      "name": "Narvesen",
+      "patterns": [
+        "^NARVESEN .*$"
+      ]
+    },
+    {
+      "name": "Glitter",
+      "patterns": [
+        "^GLITTER .*$"
+      ]
+    },
+    {
+      "name": "Matkroken",
+      "patterns": [
+        "^MATKROKEN.*$"
+      ]
+    },
+    {
+      "name": "Kiwi",
+      "patterns": [
+        "^KIWI.*$"
+      ]
+    },
+    {
+      "name": "Apotek1",
+      "patterns": [
+        "^APOTEK 1.*$"
+      ]
+    },
+    {
+      "name": "Clas Ohlson",
+      "patterns": [
+        "^CLAS OHL.*$"
+      ]
+    },
+    {
+      "name": "7-Eleven",
+      "patterns": [
+        "^7ELEVEN.*$"
+      ]
+    },
+    {
+      "name": "Posten",
+      "patterns": [
+        "^.*POST *I *BUTIKK.*$",
+        "POSTEN NORGE AS"
+      ]
+    },
+    {
+      "name": "Funky frozen",
+      "patterns": [
+        "^FUNKY FROZEN.*$"
+      ]
+    },
+    {
+      "name": "Jula",
+      "patterns": [
+        "^JULA.*$"
+      ]
+    },
+    {
+      "name": "Netflix",
+      "patterns": [
+        "^NETFLIX\\.COM.*$"
+      ]
+    },
+    {
+        "name":"Norsk Tipping",
+        "patterns":[".*NORSK TIPPING.*"]
+    },
+    {
+        "name": "Bergen Kino",
+        "patterns": ["BERGEN KINO"]
+    },
+    {
+        "name":"Bergens Tidende",
+        "patterns":["Bergens Tidende"]
+    },
+    {
+        "name":"YouTube Premium",
+        "patterns":["YouTubePremium"]
+    },
+    {
+        "name":"Google Storage",
+        "patterns":["Google Storage"]
+    },
+    {
+        "name": "Espresso House",
+        "patterns":["ESPRESSO HOUSE"]
+    },
+    {
+        "name": "Software Freedom Conservancy",
+        "patterns":["PAYPAL \\*CONSERVANCY"]
+    },
+    {
+        "name": "Patreon",
+        "patterns":["PAYPAL \\*PATREON"]
+    },
+    {
+        "name": "Digital Ocean",
+        "patterns":["DIGITALOCEAN\\.COM"]
+    },
+    {
+        "name": "Vitus Apotek",
+        "patterns":["VITUSAPOTEK"]
+    },
+    {
+        "name": "Monter",
+        "patterns":["^MONTER"]
+    },
+    {
+        "name": "Coop Obs",
+        "patterns":["^COOP OBS"]
+    },
+    {
+        "name": "Coop Obs Bygg",
+        "patterns":["^COOP OBS BYGG"]
+    },
+    {
+        "name": "Home on time",
+        "patterns":["^HOME ON TIME"]
+    },
+    {
+        "name": "ebok.no",
+        "patterns":["^ebok\\.no"]
+    },
+    {
+        "name": "Wallendahl",
+        "patterns":["^WALLENDAHL"]
+    },
+    {
+        "name": "Nintendo",
+        "patterns":["^.*NINTENDO.*$"]
+    },
+    {
+        "name": "Fjordkraft",
+        "patterns":["Fjordkraft AS"]
+    },
+    {
+        "name": "Tryg forsikring",
+        "patterns":["TRYG FORSIKRING"]
+    },
+    {
+        "name": "Telenor",
+        "patterns":["TELENOR NORGE A"]
+    },
+    {
+        "name": "Point",
+        "patterns":["POINT"]
+    },
+    {
+        "name": "Flybussen",
+        "patterns":["FLYBUSSEN"]
+    },
+    {
+        "name": "Vy",
+        "patterns":["VY APP"]
+    },
+    {
+        "name": "Starbucks",
+        "patterns":["STARBUCKS"]
+    },
+    {
+        "name": "YNAB",
+        "patterns":["YOU NEED A BUDGET"]
+    },
+    {
+        "name": "Norwegian",
+        "patterns":["^NORWEGIAN\\.C"]
+    }
+  ]
